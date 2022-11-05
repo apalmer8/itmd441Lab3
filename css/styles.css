@@ -1,0 +1,21 @@
+h1{
+	text-align: center;
+	display: block;
+}
+h2{
+	text-align: center;
+	display: block;
+}
+
+span{
+	font-family: serif;
+}
+.box{
+margin:auto; 
+width:350px;
+padding:20px;
+background:#f9f9f9;
+border:2px solid #333;
+display: block;
+margin: auto;
+}
